@@ -6,7 +6,7 @@ Created with CodeSandbox
 
 ## 🔗 Links
 
-- [View Live Website](https://iiqvht-3000.preview.csb.app/ "Live View")
+- [View Live Website](https://rz0s4p.csb.app "Live View")
 
 ## 🛠 Built With
 
