@@ -1,5 +1,3 @@
-# Milky-Mood
-Created with CodeSandbox
 <h1 align="center">Milky Mood</h1>
 
 <p align="center">Single page website showcasing the use of various frameworks within React.js</p>
